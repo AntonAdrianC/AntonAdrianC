@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raresamza&label=Profile%20views&color=0e75b6&style=flat" alt="raresamza" /> </p>
 
-- 🔭 I’m currently working on [General Purpose Website for Myself and my friends](///)
-
 - 🌱 I’m currently learning **Nextjs, Reactjs,Javascript, Java, Typescript**
 
 - 💬 Ask me about **Nextjs, Reactjs, Java**
 
 - 📫 How to reach me **constantin.anton01@e-uvt.ro**
 
-- 📄 Know about my experiences []()
+- 📄 Know about my experiences [https://aquamarine-danielle-67.tiiny.site](https://aquamarine-danielle-67.tiiny.site)
 
 - ⚡ Fun fact **I think I am funny**
 
